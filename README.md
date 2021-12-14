@@ -59,9 +59,11 @@ Calling the `retrieve` function will return a value of `0` right now, which is t
 Also, we will see in the Output panel some logs about the call to `Storage.retrieve` which is our function.
 
 Now, let's try calling the `store` value with the number `5`.
+
 ![](https://i.imgur.com/m3BwJCc.png)
 
 Again, we see some logs in the output panel about the call to `Storage.store`. Now, if we try to `retrieve` again, the output will be `5`. 
+
 ![](https://i.imgur.com/8PdOvHf.png)
 
 
