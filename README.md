@@ -4,7 +4,7 @@ Remix is an open-source, web and desktop IDE for Ethereum development. It is the
 
 Remix helps you write Solidity code directly in the browser, and has tools for testing, debugging, and deploying your smart contract to the blockchain.
 
-You can visit Remix at https://remix.ethereum.org/
+You can visit Remix at [https://remix.ethereum.org/](https://remix.ethereum.org/)
 
 ## Navigating Remix
 
@@ -33,7 +33,7 @@ To compile our contracts, we shift over to the `Solidity Compiler` tab, and we w
 
 Here, we can choose which `Compiler Version` we want, which smart-contract programming language we are using (mostly you will just be using Solidity), and some further configuration options.
 
-Note: The other programming language listed in Remix, `Yul`, is a lower-level language. It is meant for intermediate compilation, and is closer to the hardware than Solidity is. 99% of the time you will not be coding in Yul. Read more about Yul here - https://docs.soliditylang.org/en/v0.8.9/yul.html
+Note: The other programming language listed in Remix, `Yul`, is a lower-level language. It is meant for intermediate compilation, and is closer to the hardware than Solidity is. 99% of the time you will not be coding in Yul. Read more about Yul here - [https://docs.soliditylang.org/en/v0.8.9/yul.html](https://docs.soliditylang.org/en/v0.8.9/yul.html)
 
 Clicking `Compile 1_Storage.sol` will compile the contract and make it ready for deployment.
 
@@ -76,5 +76,5 @@ Again, we see some logs in the output panel about the call to `Storage.store`. N
 
 To learn more about Remix, we recommend:
 
-- Go through the documentation at https://remix-ide.readthedocs.io/en/latest/
+- Go through the documentation at [https://remix-ide.readthedocs.io/en/latest/](https://remix-ide.readthedocs.io/en/latest/)
 - Play around with the default smart contracts that Remix ships with to get a handle on the workflow
