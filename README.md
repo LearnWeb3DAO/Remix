@@ -76,5 +76,5 @@ Again, we see some logs in the output panel about the call to `Storage.store`. N
 
 To learn more about Remix, we recommend:
 
-- Go through the documentation at [https://remix-ide.readthedocs.io/en/latest/](https://remix-ide.readthedocs.io/en/latest/)
+- Go through the documentation at [Remix IDE Docs](https://remix-ide.readthedocs.io/en/latest/)
 - Play around with the default smart contracts that Remix ships with to get a handle on the workflow
